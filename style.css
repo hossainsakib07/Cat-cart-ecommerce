@@ -5,7 +5,7 @@
    width: 100px;
    
 }
-.col-md-4{
+.col-xxl-4{
    padding-bottom: 25px;
    
    
@@ -45,6 +45,10 @@
    height: 35px;
    color: rgb(251, 251, 251);
 }
+.buy-now-btn:hover{
+  background-color: aqua;
+  color: rgb(63, 63, 63);
+}
 .card{
    border: none;
    border-radius: 25px;
@@ -76,5 +80,36 @@
 .nav-link:hover{
    color: aqua;
 }
+.cat-1 h1 a{
+   text-decoration: none;
+   color: rgb(131, 31, 0);
+} 
+.cat-2 h1 a{
+   text-decoration: none;
+   color: rgb(0, 97, 8);
+} 
+.cat-3 h1 a{
+   text-decoration: none;
+   color: rgb(0, 203, 230);
+} 
+.cat-4 h1 a{
+   text-decoration: none;
+   color: rgb(0, 93, 36);
+} 
+.cat-5 h1 a{
+   text-decoration: none;
+   color: rgb(0, 25, 95);
+} 
+.cat-6 h1 a{
+   text-decoration: none;
+   color: rgb(255, 174, 231);
+} 
+h1 a{
+   text-decoration: none;
    
+} 
+
+h1:hover a{
+ color: aliceblue;
+}
    
