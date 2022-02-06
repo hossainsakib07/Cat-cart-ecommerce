@@ -52,7 +52,11 @@
 .card{
    border: none;
    border-radius: 25px;
-   box-shadow: 5px 5px 10px rgb(165, 165, 165);
+   
+}
+.card:hover{
+   box-shadow: 5px 5px 10px rgb(207, 207, 207);
+   
 }
 .card-footer{
   text-align: center;
