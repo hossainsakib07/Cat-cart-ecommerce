@@ -112,4 +112,7 @@ h1 a{
 h1:hover a{
  color: aliceblue;
 }
+#navbarSupportedContent li a:hover{
+   color: rgb(0, 150, 209);
+   font-weight: bold;
    
